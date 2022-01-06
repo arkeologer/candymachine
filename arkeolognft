@@ -1,0 +1,15 @@
+{
+  "name": "egyptian_statue",
+  "description": "from the archaeologist official account.",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmd9ynFvYZ9jhHFD3MVF3LwLxxUmX6493TCh7f7bCt7Zsa",
+  "attributes": [
+    {
+      "trait_type": "egypt",
+      "value": "Supporter Type"
+    },
+    {
+      "trait_type": "Youtube Video",
+      "value": "Viewed"
+    }
+  ]
+}
